@@ -1,0 +1,206 @@
+[06-Mar-2022 21:34:15 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:34:15 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:34:33 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:34:33 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:34:33 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:34:33 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:34:34 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[06-Mar-2022 21:34:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[06-Mar-2022 21:34:34 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[06-Mar-2022 21:34:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[06-Mar-2022 21:34:34 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[06-Mar-2022 21:34:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[06-Mar-2022 21:36:10 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:10 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:28 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:28 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:28 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:28 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:29 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[06-Mar-2022 21:36:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[06-Mar-2022 21:36:29 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[06-Mar-2022 21:36:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[06-Mar-2022 21:36:29 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[06-Mar-2022 21:36:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[06-Mar-2022 21:36:57 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:36:57 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:37:16 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:37:16 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:37:16 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:37:16 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:37:17 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[06-Mar-2022 21:37:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[06-Mar-2022 21:37:17 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[06-Mar-2022 21:37:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[06-Mar-2022 21:37:17 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[06-Mar-2022 21:37:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[06-Mar-2022 21:37:51 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:37:51 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:38:04 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:38:04 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:42:45 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:42:45 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:42:54 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:42:54 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:42:57 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:42:57 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:43:05 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:43:05 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:43:05 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[06-Mar-2022 21:43:05 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:05 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:05 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:22 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:22 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:22 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:22 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:45 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:45 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:45 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:45 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 56
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 57
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Undefined property: stdClass::$oosRequestDataResponse in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[07-Mar-2022 07:58:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/ResponseClass.php on line 58
+[07-Mar-2022 07:59:25 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:59:25 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:59:41 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:59:41 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:59:41 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 07:59:41 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:01 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:01 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:01 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:01 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:54 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:54 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:55 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:55 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:00:55 UTC] PHP Warning:  simplexml_load_string() expects parameter 1 to be string, object given in /home/sanalmagazadroet/public_html/tvt-repice/src/success.php on line 94
+[07-Mar-2022 08:01:14 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:01:14 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:01:14 UTC] PHP Notice:  Undefined variable: ci in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[07-Mar-2022 08:01:14 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/sanalmagazadroet/public_html/tvt-repice/src/qwerty/RequestClass.php on line 55
+[08-Mar-2022 20:46:29 UTC] PHP Fatal error:  Trait 'Hash' not found in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 17
+[08-Mar-2022 20:47:11 UTC] PHP Fatal error:  Trait 'Hash' not found in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 17
+[08-Mar-2022 20:47:45 UTC] PHP Fatal error:  Trait 'Hash' not found in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 17
+[08-Mar-2022 20:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(149): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(52): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:53:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(149): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(55): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(149): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(63): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:54:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(149): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(63): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(149): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(63): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(149): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(67): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(154): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(67): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(153): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(67): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(153): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(67): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(159): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(67): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 20:58:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(100): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(159): Qwerty\PosnetPaymentService\SeederClass->generateHashFinancal()
+#3 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(67): Qwerty\PosnetPaymentService\SeederClass->getXmlSecond()
+#4 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 21:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:78
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(87): Qwerty\PosnetPaymentService\SeederClass->getEncClientHash()
+#1 /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php(143): Qwerty\PosnetPaymentService\SeederClass->getTotalClientHash()
+#2 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(65): Qwerty\PosnetPaymentService\SeederClass->testo()
+#3 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 78
+[08-Mar-2022 21:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:140
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(65): Qwerty\PosnetPaymentService\SeederClass->testo()
+#1 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 140
+[08-Mar-2022 21:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:140
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(65): Qwerty\PosnetPaymentService\SeederClass->testo()
+#1 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 140
+[08-Mar-2022 21:01:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Qwerty\PosnetPaymentService\SeederClass::StringHash() in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php:140
+Stack trace:
+#0 /home/sanalmagazadroet/public_html/tvt-repice/example/success.php(65): Qwerty\PosnetPaymentService\SeederClass->testo()
+#1 {main}
+  thrown in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 140
+[08-Mar-2022 21:02:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 139
+[08-Mar-2022 21:02:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 139
+[08-Mar-2022 21:02:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 139
+[08-Mar-2022 21:02:40 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/sanalmagazadroet/public_html/tvt-repice/src/SeederClass.php on line 139

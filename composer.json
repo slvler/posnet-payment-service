@@ -1,0 +1,17 @@
+{
+  "name": "qwerty/posnet-payment-service",
+  "description": "yapikredi posnet payment service",
+  "license": "MIT",
+  "authors": [{
+    "name": "Qwerty",
+    "email": "qwerty@qwerty.com"
+  }],
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Qwerty\\PosnetPaymentService\\": "src/"
+    }
+  }
+}
