@@ -4,7 +4,6 @@
 [![Latest Stable Version](http://poser.pugx.org/qwerty/posnet-payment-service/v)](https://packagist.org/packages/qwerty/posnet-payment-service)
 [![Latest Unstable Version](http://poser.pugx.org/qwerty/posnet-payment-service/v/unstable)](https://packagist.org/packages/qwerty/posnet-payment-service) 
 [![License](http://poser.pugx.org/qwerty/posnet-payment-service/license)](https://packagist.org/packages/qwerty/posnet-payment-service) 
-[![PHP Version Require](http://poser.pugx.org/qwerty/posnet-payment-service/require/php)](https://packagist.org/packages/qwerty/posnet-payment-service)
 
 
 a Turkish YapiKredi Bank POS service connection for PHP.
