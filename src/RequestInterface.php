@@ -1,7 +1,7 @@
 <?php 
 
 
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 interface RequestInterface
 {

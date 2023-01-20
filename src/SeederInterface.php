@@ -1,16 +1,11 @@
 <?php declare(strict_types=1);
 
 
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 interface SeederInterface
 {
-    /**
-     * @param string $url URL
-     * @return void
-     * @see curl_init()
-     *
-     */
+
     public function setError();
 
     public function __construct(Config $config);

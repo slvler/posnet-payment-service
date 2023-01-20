@@ -1,6 +1,6 @@
 <?php
 
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 class Config implements ConfigInterface
 {

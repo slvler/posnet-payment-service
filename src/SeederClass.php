@@ -1,12 +1,6 @@
 <?php
 
-/*
- * gerekli olan xml dosyalarının hazırlandığı
- *
- */
-
-
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 
 use DOMDocument;

@@ -1,17 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace Qwerty\PosnetPaymentService;
-
-
+namespace slvler\PosnetPaymentService;
 
 interface ResponseInterface
 {
-    /**
-     * @param string $url URL
-     * @return void
-     * @see curl_init()
-     *
-     */
     public function __construct($requestClass);
 
     public function getRequestClassSimpleXml();
@@ -21,8 +13,5 @@ interface ResponseInterface
     public function getRequestClass();
 
     public function ResponseRequest();
-
-
-
 
 }

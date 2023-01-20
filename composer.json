@@ -1,17 +1,22 @@
 {
-  "name": "qwerty/posnet-payment-service",
-  "description": "yapikredi posnet payment service",
+  "name": "slvler/posnet-payment-service",
   "license": "MIT",
-  "authors": [{
-    "name": "Qwerty",
-    "email": "qwerty@qwerty.com"
-  }],
+  "description": "posnet payment system from turkish banks",
+  "type": "package",
+  "authors": [
+    {
+        "name": "slvler",
+        "email": "slvler@proton.me" 
+    }
+],
   "require": {
-    "php": "^7.4 || ^8.0"
+    "php": "^7.4"
   },
   "autoload": {
     "psr-4": {
-      "Qwerty\\PosnetPaymentService\\": "src/"
+      "slvler\\PosnetPaymentService\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
