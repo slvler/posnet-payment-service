@@ -9,13 +9,11 @@
 a Turkish YapiKredi Bank POS service connection for PHP.
 
 
-#### Config
+#### Composer
 
-------------
+```bash
 
-```php
-Composer
-composer require qwerty/posnet-payment-service dev-main
+composer require slvler/posnet-payment-service
 
 ```
 
