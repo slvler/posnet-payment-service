@@ -1,11 +1,6 @@
 <?php
 
-/*
- * sabit değişkenlerin ve verilerin kullanıldığı
- */
-
-
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 
 class Client implements ClientInterface {

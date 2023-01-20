@@ -1,11 +1,6 @@
 <?php
 
-/*
- * Sepet İşlemleri - sepetten gelen verilerin kontrolü döndürülmesi
- */
-
-
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 
 class OrderClass

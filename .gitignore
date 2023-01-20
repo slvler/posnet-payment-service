@@ -1,3 +1,11 @@
-/vendor
 .idea
 .DS_Store
+.php_cs
+.php-cs-fixer.cache
+.phpunit.result.cache
+build
+composer.lock
+coverage
+docs
+psalm.xml
+vendor

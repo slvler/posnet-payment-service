@@ -1,11 +1,6 @@
 <?php
 
-/*
- * requestlerden dönen verilerin çözülmesi
- *
- */
-
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 class ResponseClass implements ResponseInterface
 {

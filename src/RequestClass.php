@@ -1,10 +1,6 @@
 <?php
 
-/*
- * gerekli olan request isteklerinin atıldığı
- */
-
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 
 class RequestClass implements RequestInterface {

@@ -1,7 +1,7 @@
 <?php declare(strict_types=1);
 
 
-namespace Qwerty\PosnetPaymentService;
+namespace slvler\PosnetPaymentService;
 
 
 interface ClientInterface
