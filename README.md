@@ -1,9 +1,9 @@
 # 
 
 ## Yapikredi-Posnet-Service
-[![Latest Stable Version](http://poser.pugx.org/qwerty/posnet-payment-service/v)](https://packagist.org/packages/qwerty/posnet-payment-service)
-[![Latest Unstable Version](http://poser.pugx.org/qwerty/posnet-payment-service/v/unstable)](https://packagist.org/packages/qwerty/posnet-payment-service) 
-[![License](http://poser.pugx.org/qwerty/posnet-payment-service/license)](https://packagist.org/packages/qwerty/posnet-payment-service) 
+[![Latest Stable Version](http://poser.pugx.org/slvler/posnet-payment-service/v)](https://packagist.org/packages/slvler/posnet-payment-service)
+[![Latest Unstable Version](http://poser.pugx.org/slvler/posnet-payment-service/v/unstable)](https://packagist.org/packages/slvler/posnet-payment-service)
+[![License](http://poser.pugx.org/slvler/posnet-payment-service/license)](https://packagist.org/packages/slvler/posnet-payment-service)
 
 
 a Turkish YapiKredi Bank POS service connection for PHP.
@@ -16,10 +16,6 @@ a Turkish YapiKredi Bank POS service connection for PHP.
 composer require slvler/posnet-payment-service
 
 ```
-
-
-
-
 
 
 ```php
