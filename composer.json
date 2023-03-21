@@ -9,9 +9,7 @@
         "email": "slvler@proton.me" 
     }
 ],
-  "require": {
-    "php": "^7.4"
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "slvler\\PosnetPaymentService\\": "src/"
