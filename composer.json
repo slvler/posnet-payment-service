@@ -11,10 +11,10 @@
 ],
   "require": {},
   "autoload": {
-    "psr-4": {
-      "slvler\\PosnetPaymentService\\": "src/"
-    }
-  },
-  "minimum-stability": "dev",
+      "psr-4": {
+        "slvler\\PosnetPaymentService\\": "src/"
+      }
+    },
+  "minimum-stability": "stable",
   "prefer-stable": true
 }
